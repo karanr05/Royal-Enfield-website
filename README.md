@@ -1,5 +1,12 @@
-# Getting Started with Create React App
+# Royal-Enfield-website 
 
+ 
+ 
+- This website is built using :
+    -  **HTML**
+    -  **CSS**
+    -  **React.js**
+    -  **Tailwind.css**
 
 
  #**Deployment Link**
